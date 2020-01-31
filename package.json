@@ -1,0 +1,16 @@
+{
+  "name": "nox",
+  "version": "1.0.0",
+  "description": "example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "fontawesome": "^5.6.3",
+    "jquery": "^3.3.1"
+  }
+}
